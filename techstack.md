@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 sachajw/kubectl-detector-for-docker-socket is built on the following main stack:
+
 - [Golang](http://golang.org/) – Languages
 - [Kubernetes](http://kubernetes.io/) – Container Tools
 - [Protobuf](https://developers.google.com/protocol-buffers/) – Serialization Frameworks
@@ -9,11 +10,13 @@ sachajw/kubectl-detector-for-docker-socket is built on the following main stack:
 - [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 sachajw/kubectl-detector-for-docker-socket is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/1005/O6AczwfV_400x400.png' alt='Golang'/> [Golang](http://golang.org/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1885/21_d3cvM.png' alt='Kubernetes'/> [Kubernetes](http://kubernetes.io/) – Container Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/4393/ma2jqJKH_400x400.png' alt='Protobuf'/> [Protobuf](https://developers.google.com/protocol-buffers/) – Serialization Frameworks
@@ -21,14 +24,15 @@ sachajw/kubectl-detector-for-docker-socket is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [sachajw/kubectl-detector-for-docker-socket](https://github.com/sachajw/kubectl-detector-for-docker-socket)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|6<br/>Tools used|11/16/23 <br/>Report generated|
+|6<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
